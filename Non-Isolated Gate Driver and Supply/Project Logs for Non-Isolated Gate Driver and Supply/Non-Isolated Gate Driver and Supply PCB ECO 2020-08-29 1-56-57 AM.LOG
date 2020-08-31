@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=L1 Old Footprint=WE-PD_1260/1245/1280/121054 New Footprint=PM4340682NLT
+Change component parameters: Designator = "L1" ("L1"); Footprint = "WE-PD_1260/1245/1280/121054"; UniqueID = "\MTKXDOBV" ("\MTKXDOBV")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "PM4340.333NLT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://products.pulseelex.com/files/product_files/P767.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Pulse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PM4340.333NLT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"

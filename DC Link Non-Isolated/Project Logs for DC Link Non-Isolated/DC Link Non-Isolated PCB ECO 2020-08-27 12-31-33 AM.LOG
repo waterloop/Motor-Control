@@ -1,0 +1,15 @@
+Added Component: Designator=C1(C4AQLBW6130A3NK)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C4AQLBW6130A3NK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.digikey.ca/en/products/detail/kemet/C4AQLBW6130A3NK/8345973"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://api.kemet.com/component-edge/download/specsheet/C4AQLBW6130A3NK.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "50.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C4AQLBW6130A3NK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "C4AQLBW6130A3NK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.digikey.ca/en/products/detail/kemet/C4AQLBW6130A3NK/8345973"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BATT+ Pin=C1-1
+Added Pin To Net: NetName=BATT- Pin=C1-2
+Added Pin To Net: NetName=BATT- Pin=C1-3
+Added Pin To Net: NetName=BATT+ Pin=C1-4
+Added Member To Class: ClassName=DC Link Non-Isolated Member=Component C1 C4AQLBW6130A3NK
+Added Room: Name=DC Link Non-Isolated

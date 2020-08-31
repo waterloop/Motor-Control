@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=J? NewDesignator=J9
+Change Component Designator: OldDesignator=J? NewDesignator=J10
+Change Component Designator: OldDesignator=J? NewDesignator=J11
+Change Component Designator: OldDesignator=J? NewDesignator=J12
+Change Component Designator: OldDesignator=J? NewDesignator=J13
+Change Component Designator: OldDesignator=J? NewDesignator=J14
+Change Component Designator: OldDesignator=J? NewDesignator=J15
+Change Component Designator: OldDesignator=J? NewDesignator=J16
+Change Component Designator: OldDesignator=J? NewDesignator=J17
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ9_1
+Added Member To Class: ClassName=DC Link Non-Isolated Member=Component C1 C4AQLBW6130A3NK
+Added Member To Class: ClassName=DC Link Non-Isolated Member=Component J5 8730
+Added Member To Class: ClassName=DC Link Non-Isolated Member=Component J7 8730
+Added Member To Class: ClassName=DC Link Non-Isolated Member=Component J8 8730
+Added Member To Class: ClassName=DC Link Non-Isolated Member=Component J9 Header 2
+Added Member To Class: ClassName=DC Link Non-Isolated Member=Component J10 8730
+Added Member To Class: ClassName=DC Link Non-Isolated Member=Component J11 8730
+Added Member To Class: ClassName=DC Link Non-Isolated Member=Component J12 8730
+Added Member To Class: ClassName=DC Link Non-Isolated Member=Component J13 8730
+Added Member To Class: ClassName=DC Link Non-Isolated Member=Component J14 8730
+Added Member To Class: ClassName=DC Link Non-Isolated Member=Component J15 8730
+Added Member To Class: ClassName=DC Link Non-Isolated Member=Component J16 8730
+Added Member To Class: ClassName=DC Link Non-Isolated Member=Component J17 8730
+Added Member To Class: ClassName=DC Link Non-Isolated Member=Component R2 Res3
+Added Member To Class: ClassName=DC Link Non-Isolated Member=Component R3 Res3
+Added Member To Class: ClassName=DC Link Non-Isolated Member=Component R4 Res3
