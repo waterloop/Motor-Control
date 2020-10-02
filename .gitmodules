@@ -1,0 +1,6 @@
+[submodule "Motor-Control"]
+	path = Motor-Control
+	url = https://github.com/waterloop/Motor-Control
+[submodule "PSIM"]
+	path = PSIM
+	url = https://github.com/waterloop/Motor-Control
