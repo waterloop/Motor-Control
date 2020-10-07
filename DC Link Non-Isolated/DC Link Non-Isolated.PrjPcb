@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for DC Link Non-Isolated
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NWAGQNFU
 
 [Document5]
 DocumentPath=JLCPCB.OutJob
@@ -123,86 +123,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for DC Link Non-Isolated\DC Link Non-Isolated RFQ\DC Link Non-Isolated.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for DC Link Non-Isolated\DC Link Non-Isolated RFQ\DC Link Non-Isolated.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for DC Link Non-Isolated\DC Link Non-Isolated RFQ\DC Link Non-Isolated.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for DC Link Non-Isolated\DC Link Non-Isolated RFQ\DC Link Non-Isolated.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for DC Link Non-Isolated\DC Link Non-Isolated RFQ\DC Link Non-Isolated.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for DC Link Non-Isolated\DC Link Non-Isolated RFQ\DC Link Non-Isolated.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for DC Link Non-Isolated\DC Link Non-Isolated RFQ\DC Link Non-Isolated.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for DC Link Non-Isolated\DC Link Non-Isolated RFQ\DC Link Non-Isolated.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for DC Link Non-Isolated\DC Link Non-Isolated RFQ\DC Link Non-Isolated.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for DC Link Non-Isolated\DC Link Non-Isolated RFQ\DC Link Non-Isolated.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for DC Link Non-Isolated\DC Link Non-Isolated RFQ\DC Link Non-Isolated.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for DC Link Non-Isolated\DC Link Non-Isolated RFQ\DC Link Non-Isolated.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for DC Link Non-Isolated\DC Link Non-Isolated RFQ\DC Link Non-Isolated.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for DC Link Non-Isolated\DC Link Non-Isolated RFQ\DC Link Non-Isolated.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for DC Link Non-Isolated\DC Link Non-Isolated RFQ\DC Link Non-Isolated.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for DC Link Non-Isolated\DC Link Non-Isolated RFQ\DC Link Non-Isolated.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for DC Link Non-Isolated\DC Link Non-Isolated RFQ\DC Link Non-Isolated.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for DC Link Non-Isolated\DC Link Non-Isolated RFQ\DC Link Non-Isolated.REP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for DC Link Non-Isolated\DC Link Non-Isolated RFQ\DC Link Non-Isolated.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for DC Link Non-Isolated\DC Link Non-Isolated RFQ\DC Link Non-Isolated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument21]
 DocumentPath=Project Outputs for DC Link Non-Isolated\Design Rule Check - DC Link Non-Isolated.html
 DItemRevisionGUID=
 
@@ -215,6 +135,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for DC Link Non-Isolated
 
 [OutputGroup1]
 Name=Netlist Outputs
