@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=BATT- Pin=R3-2
-Added Pin To Net: NetName=BATT+ Pin=R3-2
-Added Member To Class: ClassName=DC Link Non-Isolated Member=Component C1 C4AQLBW6130A3NK

@@ -4,3 +4,6 @@
 [submodule "PSIM"]
 	path = PSIM
 	url = https://github.com/waterloop/Motor-Control
+[submodule "Goose_5\\INA240_Breakout\\Library"]
+	path = Goose_5\\INA240_Breakout\\Library
+	url = https://github.com/waterloop/electrical-AltiumLibraries
