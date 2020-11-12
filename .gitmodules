@@ -13,3 +13,9 @@
 [submodule "Goose_5\\5V_3V_LDO\\Libraries"]
 	path = Goose_5\\5V_3V_LDO\\Libraries
 	url = https://github.com/waterloop/electrical-AltiumLibraries
+[submodule "Goose_5\\LMR50410\\Libraries"]
+	path = Goose_5\\LMR50410\\Libraries
+	url = https://github.com/waterloop/electrical-AltiumLibraries
+[submodule "Goose_5\\FET_Gate_Drive_Breakout\\Libraries"]
+	path = Goose_5\\FET_Gate_Drive_Breakout\\Libraries
+	url = https://github.com/waterloop/electrical-AltiumLibraries
