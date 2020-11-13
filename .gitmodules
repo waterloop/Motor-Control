@@ -19,3 +19,6 @@
 [submodule "Goose_5/FET_Gate_Drive_Breakout/Libraries"]
 	path = Goose_5/FET_Gate_Drive_Breakout/Libraries
 	url = https://github.com/waterloop/electrical-AltiumLibraries
+[submodule "Goose_6/Flybuck/Libraries"]
+	path = Goose_6/Flybuck/Libraries
+	url = https://github.com/waterloop/electrical-AltiumLibraries
