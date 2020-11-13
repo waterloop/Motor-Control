@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for FET_Gate_Drive_Breakout
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EQQIKTFP
 
 [Document5]
 DocumentPath=Libraries\Libraries\GeneralComponents.IntLib
@@ -156,6 +156,83 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document8]
+DocumentPath=JLCPCB.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for FET_Gate_Drive_Breakout\BOM\Bill of Materials-FET_Gate_Drive_Breakout.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for FET_Gate_Drive_Breakout\Gerber\FET_Gate_Drive_Breakout.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for FET_Gate_Drive_Breakout\Gerber\FET_Gate_Drive_Breakout.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for FET_Gate_Drive_Breakout\Gerber\FET_Gate_Drive_Breakout.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for FET_Gate_Drive_Breakout\Gerber\FET_Gate_Drive_Breakout.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for FET_Gate_Drive_Breakout\Gerber\FET_Gate_Drive_Breakout.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for FET_Gate_Drive_Breakout\Gerber\FET_Gate_Drive_Breakout.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for FET_Gate_Drive_Breakout\Gerber\FET_Gate_Drive_Breakout.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for FET_Gate_Drive_Breakout\Gerber\FET_Gate_Drive_Breakout.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for FET_Gate_Drive_Breakout\Gerber\FET_Gate_Drive_Breakout.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for FET_Gate_Drive_Breakout\Gerber\FET_Gate_Drive_Breakout.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for FET_Gate_Drive_Breakout\Gerber\FET_Gate_Drive_Breakout.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for FET_Gate_Drive_Breakout\Gerber\FET_Gate_Drive_Breakout.REP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for FET_Gate_Drive_Breakout\Gerber\FET_Gate_Drive_Breakout.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for FET_Gate_Drive_Breakout\ExportSTEP\FET_Gate_Drive_Breakout.step
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -165,6 +242,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for FET_Gate_Drive_Breakout
 
 [OutputGroup1]
 Name=Netlist Outputs

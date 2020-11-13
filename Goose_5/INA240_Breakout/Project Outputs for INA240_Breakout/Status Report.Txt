@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [INA240_Breakout.PcbDoc]
+   Generated File[INA240_Breakout.TXT]
+   Generated File[INA240_Breakout.LDP]
+   Generated File[INA240_Breakout.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 6:02:05 PM On 2020-11-13
