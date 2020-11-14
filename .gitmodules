@@ -7,8 +7,8 @@
 [submodule "Goose_5/INA240_Breakout/Libraries"]
 	path = Goose_5/INA240_Breakout/Libraries
 	url = https://github.com/waterloop/electrical-AltiumLibraries
-[submodule "Goose_5/INA180_Breakout/Library"]
-	path = Goose_5/INA180_Breakout/Library
+[submodule "Goose_5/INA180_Breakout/Libraries"]
+	path = Goose_5/INA180_Breakout/Libraries
 	url = https://github.com/waterloop/electrical-AltiumLibraries
 [submodule "Goose_5/5V_3V_LDO/Libraries"]
 	path = Goose_5/5V_3V_LDO/Libraries
