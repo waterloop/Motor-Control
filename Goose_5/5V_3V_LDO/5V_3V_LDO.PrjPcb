@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for 5V_3V_LDO
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -187,123 +187,67 @@ DocumentPath=Project Outputs for 5V_3V_LDO\Gerber\5V_3V_LDO.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\Gerber\5V_3V_LDO.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for 5V_3V_LDO\Gerber\5V_3V_LDO.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\Gerber\5V_3V_LDO.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for 5V_3V_LDO\Gerber\5V_3V_LDO.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\Gerber\5V_3V_LDO.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for 5V_3V_LDO\Gerber\5V_3V_LDO.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\Gerber\5V_3V_LDO.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for 5V_3V_LDO\Gerber\5V_3V_LDO.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Free Documents\Gerber\5V_3V_LDO.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for 5V_3V_LDO\Gerber\5V_3V_LDO.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Free Documents\Gerber\5V_3V_LDO.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument14]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for 5V_3V_LDO\Gerber\5V_3V_LDO.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\Gerber\5V_3V_LDO.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument16]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for 5V_3V_LDO\Gerber\5V_3V_LDO.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\Gerber\5V_3V_LDO.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument18]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for 5V_3V_LDO\Gerber\5V_3V_LDO.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\Gerber\5V_3V_LDO.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument20]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for 5V_3V_LDO\Gerber\5V_3V_LDO.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Free Documents\Gerber\5V_3V_LDO.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for 5V_3V_LDO\Gerber\5V_3V_LDO.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Free Documents\Gerber\5V_3V_LDO.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument24]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for 5V_3V_LDO\NC Drill\5V_3V_LDO.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for 5V_3V_LDO\Gerber\5V_3V_LDO.REP
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for 5V_3V_LDO\Gerber\5V_3V_LDO.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Free Documents\Gerber\5V_3V_LDO.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument28]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for 5V_3V_LDO\ExportSTEP\5V_3V_LDO.step
 DItemRevisionGUID=
 
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Free Documents\ExportSTEP\5V_3V_LDO.step
-DItemRevisionGUID=
-
-[GeneratedDocument30]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for 5V_3V_LDO\NC Drill\5V_3V_LDO.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for 5V_3V_LDO\BOM\Bill of Materials-5V_3V_LDO.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-5V_3V_LDO.xlsx
 DItemRevisionGUID=
 
 [Configuration1]
@@ -337,7 +281,7 @@ ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
 
 [Generic_EDE]
-OutputDir=Project Outputs for 5V_3V_LDO
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
