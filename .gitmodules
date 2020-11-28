@@ -22,6 +22,6 @@
 [submodule "Goose_6/Flybuck/Libraries"]
 	path = Goose_6/Flybuck/Libraries
 	url = https://github.com/waterloop/electrical-AltiumLibraries
-[submodule "Goose_5\\Inverter_Breakout\\Libraries"]
-	path = Goose_5\\Inverter_Breakout\\Libraries
+[submodule "Goose_5/Inverter_Breakout/Libraries"]
+	path = Goose_5/Inverter_Breakout/Libraries
 	url = https://github.com/waterloop/electrical-AltiumLibraries
