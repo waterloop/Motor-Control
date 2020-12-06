@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+E:\Chawthri\Documents\GitHub\Motor-Control\Goose_5\Inverter_Breakout\Project Outputs for Inverter_Breakout\Inverter_Breakout RFQ\Pick Place for Inverter_Breakout.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       05-12-20
+Time:       02:34
+Revision:   c0dc67876caed5215aafc527b22fa4566374a54a
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"Q6","MOSFET-N","TopLayer","DDPAK254","62.2800","18.9800","90","N-Channel MOSFET"
+"Q5","MOSFET-N","TopLayer","DDPAK254","41.9600","18.9800","90","N-Channel MOSFET"
+"Q4","MOSFET-N","TopLayer","DDPAK254","21.6400","18.9800","90","N-Channel MOSFET"
+"Q3","MOSFET-N","TopLayer","DDPAK254","62.2800","38.3700","90","N-Channel MOSFET"
+"Q2","MOSFET-N","TopLayer","DDPAK254","41.7060","38.3700","90","N-Channel MOSFET"
+"Q1","MOSFET-N","TopLayer","DDPAK254","21.6400","38.3700","90","N-Channel MOSFET"
+"P5","1x3 Header","TopLayer","HDR1X3","52.3740","23.1640","90","1x3 Pin Header"
+"P4","1x3 Header","TopLayer","HDR1X3","31.2920","23.6720","90","1x3 Pin Header"
+"P3","1x3 Header","TopLayer","HDR1X3","43.2300","3.8600","180","1x3 Pin Header"
+"P2","1x3 Header","TopLayer","HDR1X3","11.9880","24.4340","90","1x3 Pin Header"
+"P1","1x2 Header","TopLayer","HDR1X2","4.4975","28.1982","90","1x2 Pin Header"
