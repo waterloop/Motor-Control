@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+E:\Chawthri\Documents\GitHub\Motor-Control\Goose_5\Inverter_Breakout\Project Outputs for Inverter_Breakout\Inverter_Breakout RFQ\Pick Place for Inverter_Breakout.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       05-12-20
+Time:       00:34
+Revision:   c0dc67876caed5215aafc527b22fa4566374a54a
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer    Footprint Center-X(mil) Center-Y(mil) Rotation Description        
+Q6         MOSFET-N     TopLayer DDPAK254  3900.000      2195.276      90       "N-Channel MOSFET" 
+Q5         MOSFET-N     TopLayer DDPAK254  3100.000      2195.276      90       "N-Channel MOSFET" 
+Q4         MOSFET-N     TopLayer DDPAK254  2300.000      2195.276      90       "N-Channel MOSFET" 
+Q3         MOSFET-N     TopLayer DDPAK254  3900.000      2958.661      90       "N-Channel MOSFET" 
+Q2         MOSFET-N     TopLayer DDPAK254  3090.000      2958.661      90       "N-Channel MOSFET" 
+Q1         MOSFET-N     TopLayer DDPAK254  2300.000      2958.661      90       "N-Channel MOSFET" 
+P5         "1x3 Header" TopLayer HDR1X3    3510.000      2360.000      90       "1x3 Pin Header"   
+P4         "1x3 Header" TopLayer HDR1X3    2680.000      2380.000      90       "1x3 Pin Header"   
+P3         "1x3 Header" TopLayer HDR1X3    3150.000      1600.000      180      "1x3 Pin Header"   
+P2         "1x3 Header" TopLayer HDR1X3    1920.000      2410.000      90       "1x3 Pin Header"   
+P1         "1x2 Header" TopLayer HDR1X2    1625.097      2558.198      90       "1x2 Pin Header"   

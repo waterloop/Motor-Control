@@ -1,0 +1,207 @@
+*************************************************************
+FileName = Inverter_Breakout.GBR
+AutoAperture = True
+*************************************************************
+Generating : Keep-Out Layer
+      File : Inverter_Breakout.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Inverter_Breakout.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Inverter_Breakout.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Inverter_Breakout.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Inverter_Breakout.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Inverter_Breakout.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Inverter_Breakout.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Inverter_Breakout.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Inverter_Breakout.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Inverter_Breakout.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Inverter_Breakout.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Inverter_Breakout.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Inverter_Breakout.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Inverter_Breakout.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+

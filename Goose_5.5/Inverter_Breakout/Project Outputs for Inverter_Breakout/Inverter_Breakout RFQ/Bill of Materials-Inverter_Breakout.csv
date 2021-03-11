@@ -1,0 +1,5 @@
+Designator,Value,Comment,Description,Footprint,Quantity
+
+"P1","","1x2 Header","1x2 Pin Header","HDR1X2","1"
+"P2, P3, P4, P5","","1x3 Header","1x3 Pin Header","HDR1X3","4"
+"Q1, Q2, Q3, Q4, Q5, Q6","","IRF2807STRLPBF","IRF2807STRLPBF","DDPAK254","6"
