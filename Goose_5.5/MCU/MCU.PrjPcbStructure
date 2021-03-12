@@ -1,4 +1,6 @@
-Record=TopLevelDocument|FileName=MCU.SchDoc
-Record=SheetSymbol|SourceDocument=MCU.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Thermistor.SchDoc|SymbolType=Normal|RawFileName=Thermistor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=MCU.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Differential Amplifier.SchDoc|SymbolType=Normal|RawFileName=Differential Amplifier.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=MCU.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=STM32.SchDoc|SymbolType=Normal|RawFileName=STM32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=MCU.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=MCU.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Thermistor.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Thermistor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MCU.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Differential Amplifier.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Differential Amplifier.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MCU.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=STM32.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=STM32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=MCU.SchDoc|FileName=Connectors.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=MCU.SchDoc|FileName=Power.SchDoc|SheetNumber= 
