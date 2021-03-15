@@ -110,7 +110,7 @@ OutputEnabled5_OutputMedium4=0
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=6.83|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration5_Name1=OutputConfigurationParameter1
-Configuration5_Item1=DesignatorDisplayMode=Physical|PrintArea=SpecificArea|PrintAreaLowerLeftCornerX=7800000|PrintAreaLowerLeftCornerY=7200000|PrintAreaUpperRightCornerX=60900000|PrintAreaUpperRightCornerY=39000000|Record=PcbPrintView
+Configuration5_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=10390550|PrintAreaLowerLeftCornerY=15467720|PrintAreaUpperRightCornerX=26256690|PrintAreaUpperRightCornerY=25524410|Record=PcbPrintView
 Configuration5_Name2=OutputConfigurationParameter2
 Configuration5_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Top|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=True
 Configuration5_Name3=OutputConfigurationParameter3
@@ -132,7 +132,7 @@ PcbPrintPreferences5=
 [PublishSettings]
 OutputFilePath2=C:\Users\Ben\Documents\Waterloop\electrical-BMS\Slave-BMS\Project Outputs for BMS Slave Device R1.5\PDF\M-Mewtwo_MCUrev1.pdf
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for DC Link Non-Isolated
+OutputBasePath2=Project Outputs for Free Documents
 OutputPathMedia2=[Media Name]
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -159,7 +159,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=C:\Users\Ben\Documents\Waterloop\electrical-BMS\STM32F405 & LTC6820 Test Board\Project Outputs for M-Mewtwo_MCUrev1\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for DC Link Non-Isolated
+OutputBasePath3=Project Outputs for Free Documents
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Custom]
@@ -172,7 +172,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for DC Link Non-Isolated
+OutputBasePath4=Project Outputs for Free Documents
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
