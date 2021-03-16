@@ -1,2 +1,7 @@
-Record=TopLevelDocument|FileName=MCU.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=MCU.SchDoc|FileName=Motor_driver.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Connectors.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=IMU.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=MCU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=MicroSD.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Motor_driver.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Pwr.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Thermistors.SchDoc|SheetNumber=5
