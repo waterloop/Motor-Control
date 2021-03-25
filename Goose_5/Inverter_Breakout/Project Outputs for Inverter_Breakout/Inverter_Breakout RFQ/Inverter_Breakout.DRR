@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Inverter_Breakout.PcbDoc   2020-12-05  2:34:30 AM
+NCDrill File Report For: Inverter_Breakout.PcbDoc   2020-12-08  1:21:18 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,9 +7,14 @@ ASCII RoundHoles File : Inverter_Breakout.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      16mil (0.4mm)                                             Round             71        PTH        0.00inch (0.00mm)
+T1      16mil (0.4mm)                                             Round             64        PTH        0.00inch (0.00mm)
 T2      35mil (0.9mm)                                             Round             14        PTH        0.00inch (0.00mm)
+T3      54mil (1.38mm)                                            Round             18        PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              85
+Totals                                                                              96
+
+Two holes at same point : 1
+-----------------------
+1250,700
 
 Total Processing Time (hh:mm:ss) : 00:00:00

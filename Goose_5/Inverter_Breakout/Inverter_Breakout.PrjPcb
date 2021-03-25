@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for Inverter_Breakout
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -282,10 +282,6 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Inverter_Breakout\Inverter_Breakout RFQ\Pick Place for Inverter_Breakout.csv
 DItemRevisionGUID=
 
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Inverter_Breakout\Inverter_Breakout RFQ\Pick Place for Inverter_Breakout.txt
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -297,7 +293,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for Inverter_Breakout
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
