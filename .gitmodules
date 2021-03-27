@@ -25,3 +25,6 @@
 [submodule "Goose_5/Inverter_Breakout/Libraries"]
 	path = Goose_5/Inverter_Breakout/Libraries
 	url = https://github.com/waterloop/electrical-AltiumLibraries
+[submodule "Goose_5.5/electrical-AltiumLibraries"]
+	path = Goose_5.5/electrical-AltiumLibraries
+	url = https://github.com/waterloop/electrical-AltiumLibraries.git
