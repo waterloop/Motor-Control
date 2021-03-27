@@ -190,7 +190,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RRSYOLWE
 
 [Document10]
 DocumentPath=..\electrical-AltiumLibraries\Libraries\Motor_Control\MC.SchLib
@@ -207,7 +207,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LRDJTGSM
 
 [Document11]
 DocumentPath=..\electrical-AltiumLibraries\Libraries\BMS\BMS.PcbLib
