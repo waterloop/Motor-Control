@@ -1,6 +1,4 @@
-Record=TopLevelDocument|FileName=IMU.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=IMU.SchDoc|FileName=Main.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=IMU.SchDoc|FileName=MCU.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=IMU.SchDoc|FileName=MicroSD.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=IMU.SchDoc|FileName=Motor_driver.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=IMU.SchDoc|FileName=Thermistors.SchDoc|SheetNumber=4
+Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Motor_driver|SchDesignator=U_Motor_driver|FileName=Motor_driver.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Motor_driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Peripherals|SchDesignator=U_Peripherals|FileName=Peripherals.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Peripherals.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
