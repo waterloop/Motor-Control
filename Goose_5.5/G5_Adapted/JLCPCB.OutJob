@@ -130,7 +130,7 @@ Configuration5_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full
 PcbPrintPreferences5=
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Ben\Documents\Waterloop\electrical-BMS\Slave-BMS\Project Outputs for BMS Slave Device R1.5\PDF\M-Mewtwo_MCUrev1.pdf
+OutputFilePath2=D:\Waterloop\Working\Motor-Control\Goose_5.5\G5_Adapted\Project Outputs for G5_Adapted\PDF\G5_Adapted.PDF
 ReleaseManaged2=1
 OutputBasePath2=Project Outputs for G5_Adapted
 OutputPathMedia2=[Media Name]
@@ -209,7 +209,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Ben\Documents\Waterloop\electrical-BMS\Slave-BMS\Project Outputs for BMS Slave Device R1.5\PDF\M-Mewtwo_MCUrev1.pdf
+RelativeOutputPath2=D:\Waterloop\Working\Motor-Control\Goose_5.5\G5_Adapted\Project Outputs for G5_Adapted\PDF\G5_Adapted.PDF
 OpenOutputs2=1
 RelativeOutputPath3=C:\WLOOP\Motor-Control\Goose_5.5\G5_Adapted\Project Outputs for G5_Adapted\
 OpenOutputs3=1
