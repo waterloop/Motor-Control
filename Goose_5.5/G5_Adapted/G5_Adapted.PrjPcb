@@ -343,7 +343,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JCMLCSIT
+
+[Document19]
+DocumentPath=..\..\..\electrical-AltiumLibraries\Libraries\General\GeneralComponents.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JCMLCSIT
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\Bill of Materials-G5_Adapted.pdf
