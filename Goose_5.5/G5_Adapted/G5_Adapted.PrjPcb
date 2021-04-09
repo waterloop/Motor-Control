@@ -241,7 +241,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GLOVSXOP
+DocumentUniqueId=OJFCPMUS
 
 [Document13]
 DocumentPath=..\electrical-AltiumLibraries\Libraries\Embedded\Embedded.PcbLib
