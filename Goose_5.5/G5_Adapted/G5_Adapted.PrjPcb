@@ -241,7 +241,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LFCJQVJP
+DocumentUniqueId=TIIATROH
 
 [Document13]
 DocumentPath=..\electrical-AltiumLibraries\Libraries\Embedded\Embedded.PcbLib
@@ -347,6 +347,94 @@ DocumentUniqueId=JCMLCSIT
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\Bill of Materials-G5_Adapted.pdf
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.G1
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.G2
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.REP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for G5_Adapted\G5_Adapted RFQ\G5_Adapted.TXT
 DItemRevisionGUID=
 
 [Configuration1]
