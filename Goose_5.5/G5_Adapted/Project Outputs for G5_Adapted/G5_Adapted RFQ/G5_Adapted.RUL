@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\WLOOP\Motor-Control\Goose_5.5\G5_Adapted\G5_Adapted.PcbDoc
+RuleKind=Clearance|RuleName=Poly_rule_VBATT|Scope=Board|Minimum=30.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

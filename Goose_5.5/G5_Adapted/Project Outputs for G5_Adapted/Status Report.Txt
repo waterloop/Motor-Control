@@ -1,7 +1,3 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 2:28:12 PM On 3/27/2021
-
 Output: Bill of Materials
 Type  : BOM
 From  : Project [G5_Adapted.PrjPcb]
@@ -11,4 +7,4 @@ From  : Project [G5_Adapted.PrjPcb]
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 2:28:44 PM On 3/27/2021
+Finished Output Generation At 9:31:37 PM On 4/13/2021
