@@ -28,3 +28,6 @@
 [submodule "Goose_5.5/electrical-AltiumLibraries"]
 	path = Goose_5.5/electrical-AltiumLibraries
 	url = https://github.com/waterloop/electrical-AltiumLibraries.git
+[submodule "electrical-AltiumLibraries"]
+	path = electrical-AltiumLibraries
+	url = https://github.com/waterloop/electrical-AltiumLibraries
