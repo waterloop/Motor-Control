@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\dev02\OneDrive\Documents\GitHub\Motor-Control\Goose_6\TestRig\Control_Test_Board\Control_Test_Board.PcbDoc
 Date     : 2021-06-26
-Time     : 1:42:42 PM
+Time     : 3:34:58 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -23,7 +23,7 @@ Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
    Violation between Hole Size Constraint: (118.11mil > 100mil) Pad Free-10(3500mil,1500mil) on Multi-Layer Actual Hole Size = 118.11mil
-   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad Free-9(1700mil,2550mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad Free-9(1700mil,2550mil) on Multi-Layer Actual Hole Size = 125.984mil
 Rule Violations :2
 
 Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
