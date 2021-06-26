@@ -2,77 +2,66 @@
 FileName = Control_Test_Board.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Pad Master
-      File : Control_Test_Board.GPT
+Generating : Mechanical 15
+      File : Control_Test_Board.GM15
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 15
 
 
 Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D44
-    D45
-    D46
-    D47
+    D50
+    D52
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : Control_Test_Board.GTO
+Generating : Mechanical 13
+      File : Control_Test_Board.GM13
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Mechanical 13
 
 
 Used DCodes :
-    D10
-    D11
-    D12
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Control_Test_Board.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Control_Test_Board.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
     D13
-    D14
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : Control_Test_Board.GTP
+Generating : Bottom Overlay
+      File : Control_Test_Board.GBO
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : Control_Test_Board.GPB
+Generating : Bottom Paste
+      File : Control_Test_Board.GBP
+
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -80,10 +69,25 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D44
-    D45
-    D46
-    D47
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Control_Test_Board.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D39
+    D40
+    D41
+    D42
+    D43
 *************************************************************
 
 *************************************************************
@@ -118,10 +122,77 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : Control_Test_Board.GBS
+Generating : Top Paste
+      File : Control_Test_Board.GTP
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Control_Test_Board.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Control_Test_Board.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Control_Test_Board.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -129,60 +200,10 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D39
-    D40
-    D41
-    D42
-    D43
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Control_Test_Board.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : Control_Test_Board.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : Control_Test_Board.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D49
-    D50
-    D51
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : Control_Test_Board.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D50
-    D52
+    D44
+    D45
+    D46
+    D47
 *************************************************************
 
 *************************************************************
@@ -231,25 +252,5 @@ Used DCodes :
     D46
     D47
     D48
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Control_Test_Board.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : Control_Test_Board.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
 *************************************************************
 

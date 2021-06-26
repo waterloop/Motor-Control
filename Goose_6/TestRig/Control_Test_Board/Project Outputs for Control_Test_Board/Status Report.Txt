@@ -1,14 +1,12 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 12:04:25 PM On 2021-06-25
-
-Output: Bill of Materials
-Type  : BOM
-From  : Project [Control_Test_Board.PrjPcb]
-   Generated File[//d.docs.live.net/fd57e3b774e874a1/Documents/GitHub/Motor-Control/Goose_6/TestRig/Control_Test_Board/Project Outputs for Control_Test_Board/BOM/Bill of Materials-Control_Test_Board.xlsx]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Control_Test_Board.PcbDoc]
+   Generated File[Control_Test_Board.TXT]
+   Generated File[Control_Test_Board.LDP]
+   Generated File[Control_Test_Board.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 12:04:37 PM On 2021-06-25
+Finished Output Generation At 2:30:10 PM On 2021-06-26
