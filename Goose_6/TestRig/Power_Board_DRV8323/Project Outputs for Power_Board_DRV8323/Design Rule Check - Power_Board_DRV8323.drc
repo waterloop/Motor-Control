@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\ellen\Documents\GitHub\Motor-Control\Goose_6\TestRig\Power_Board_DRV8323\Power_Board_DRV8323.PcbDoc
-Date     : 8/7/2021
-Time     : 7:51:51 PM
+Date     : 8/8/2021
+Time     : 7:59:26 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -23,7 +23,7 @@ Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
    Violation between Hole Size Constraint: (125.984mil > 100mil) Pad Free-4(3062.992mil,3814.961mil) on Multi-Layer Actual Hole Size = 125.984mil
-   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad Free-4(4417.323mil,1929.134mil) on Multi-Layer Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad Free-4(4677.165mil,1952.756mil) on Multi-Layer Actual Hole Size = 125.984mil
 Rule Violations :2
 
 Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
@@ -136,4 +136,4 @@ Rule Violations :0
 
 Violations Detected : 91
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
