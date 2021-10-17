@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\ellen\Documents\GitHub\Motor-Control\Goose_6\TestRig\Power_Board_DRV8323\Power_Board_DRV8323.PcbDoc
-Date     : 8/8/2021
-Time     : 7:59:26 PM
+Date     : 10/17/2021
+Time     : 12:13:30 AM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -30,7 +30,7 @@ Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (4.795mil < 10mil) Between Pad C8-1(4254.921mil,2893.701mil) on Top Layer And Pad R4-1(4244.095mil,3023.622mil) on Top Layer [Top Solder] Mask Sliver [4.795mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (4.795mil < 10mil) Between Pad C8-2(4254.921mil,2893.701mil) on Top Layer And Pad R4-1(4244.095mil,3023.622mil) on Top Layer [Top Solder] Mask Sliver [4.795mil]
    Violation between Minimum Solder Mask Sliver Constraint: (5mil < 10mil) Between Pad NT_SNA-1(4004.685mil,2633.858mil) on Top Layer And Pad NT_SNA-2(4019.685mil,2633.858mil) on Top Layer [Top Solder] Mask Sliver [5mil]
    Violation between Minimum Solder Mask Sliver Constraint: (8.717mil < 10mil) Between Pad NT_SNA-2(4019.685mil,2633.858mil) on Top Layer And Pad R3-1(4110.236mil,2640.748mil) on Top Layer [Top Solder] Mask Sliver [8.717mil]
    Violation between Minimum Solder Mask Sliver Constraint: (5mil < 10mil) Between Pad NT_SNB-1(4086.614mil,2988.189mil) on Top Layer And Pad NT_SNB-2(4101.614mil,2988.189mil) on Top Layer [Top Solder] Mask Sliver [5mil]
@@ -39,6 +39,7 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
    Violation between Minimum Solder Mask Sliver Constraint: (5mil < 10mil) Between Pad NT_SPB-1(4130mil,3115mil) on Top Layer And Pad NT_SPB-2(4145mil,3115mil) on Top Layer [Top Solder] Mask Sliver [5mil]
    Violation between Minimum Solder Mask Sliver Constraint: (5mil < 10mil) Between Pad NT_SPC-1(4090.551mil,3551.181mil) on Top Layer And Pad NT_SPC-2(4105.551mil,3551.181mil) on Top Layer [Top Solder] Mask Sliver [5mil]
    Violation between Minimum Solder Mask Sliver Constraint: (8.732mil < 10mil) Between Pad R4-1(4244.095mil,3023.622mil) on Top Layer And Via (4141.732mil,2956.693mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [8.732mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.748mil < 10mil) Between Pad R8-1(2932.48mil,2250mil) on Top Layer And Via (2933.071mil,2204.724mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [7.748mil]
    Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad U-1(3496.968mil,2989.646mil) on Top Layer And Pad U-2(3516.654mil,2989.646mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
    Violation between Minimum Solder Mask Sliver Constraint: (7.748mil < 10mil) Between Pad U-1(3496.968mil,2989.646mil) on Top Layer And Pad U-41(3585.551mil,3105.787mil) on Top Layer [Top Solder] Mask Sliver [7.748mil]
    Violation between Minimum Solder Mask Sliver Constraint: (7.748mil < 10mil) Between Pad U-10(3674.134mil,2989.646mil) on Top Layer And Pad U-41(3585.551mil,3105.787mil) on Top Layer [Top Solder] Mask Sliver [7.748mil]
@@ -119,7 +120,7 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
    Violation between Minimum Solder Mask Sliver Constraint: (9.716mil < 10mil) Between Via (4692.913mil,3783.465mil) from Top Layer to Bottom Layer And Via (4736.221mil,3783.465mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.716mil] / [Bottom Solder] Mask Sliver [9.716mil]
    Violation between Minimum Solder Mask Sliver Constraint: (9.716mil < 10mil) Between Via (4692.913mil,3830.709mil) from Top Layer to Bottom Layer And Via (4736.221mil,3830.709mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.716mil] / [Bottom Solder] Mask Sliver [9.716mil]
    Violation between Minimum Solder Mask Sliver Constraint: (9.716mil < 10mil) Between Via (4692.913mil,3877.953mil) from Top Layer to Bottom Layer And Via (4736.221mil,3877.953mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.716mil] / [Bottom Solder] Mask Sliver [9.716mil]
-Rule Violations :89
+Rule Violations :90
 
 Processing Rule : Silk To Solder Mask (Clearance=5.906mil) (IsPad),(All)
 Rule Violations :0
@@ -134,6 +135,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 91
+Violations Detected : 92
 Waived Violations : 0
 Time Elapsed        : 00:00:02
