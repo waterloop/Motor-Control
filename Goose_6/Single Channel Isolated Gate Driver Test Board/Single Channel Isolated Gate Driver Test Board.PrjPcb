@@ -72,7 +72,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SGRINPOG
 
 [Document3]
 DocumentPath=..\..\electrical-AltiumLibraries\Libraries\General.SchLib
@@ -89,7 +89,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MHYXGVXB
 
 [Document4]
 DocumentPath=..\..\electrical-AltiumLibraries\Libraries\General\GeneralConnectors.PcbLib
@@ -140,7 +140,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RRSYOLWE
 
 [Document7]
 DocumentPath=..\..\electrical-AltiumLibraries\Libraries\Motor_Control\MC.SchLib
@@ -157,7 +157,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LRDJTGSM
+
+[Document8]
+DocumentPath=Single Channel Isolated Gate Driver Test Board.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JRMXTHUN
 
 [Configuration1]
 Name=Sources
@@ -1084,9 +1101,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=General.SchLib
-ComponentDesignItemID0=STGAP2HSCMTR
-ComponentSymbolReference0=STGAP2HSCMTR
+ComponentLibraryIdentifier0=MC.SchLib
+ComponentDesignItemID0=TBA 2-2413
+ComponentSymbolReference0=TBA 2-2413
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1113,7 +1130,7 @@ ParameterUpdate3=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=STGAP2HSCMTR
+ModelName0=TBA 2-2413
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
