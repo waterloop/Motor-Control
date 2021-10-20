@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Keeno\Documents\waterloop\Motor-Control\Goose_6\Single Channel Isolated Gate Driver Test Board\Gate Driver Test Board.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=gate driver test board.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=gate driver test board-rectholes.txt|DrillLayers=gtl,gbl

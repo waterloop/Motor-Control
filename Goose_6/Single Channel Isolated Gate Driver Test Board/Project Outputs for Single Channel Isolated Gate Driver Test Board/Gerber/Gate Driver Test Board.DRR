@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Gate Driver Test Board.PcbDoc   10/19/2021  10:40:16 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Gate Driver Test Board.TXT
+ASCII RectHoles File : Gate Driver Test Board-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.25mm)                                            Rectangle         8         PTH        6.54inch (166.15mm)
+T2      28mil (0.711mm)                                           Round             4         PTH        1.15inch (29.24mm)
+T3      35mil (0.9mm)                                             Round             12        PTH        3.30inch (83.90mm)
+T4      54mil (1.38mm)                                            Round             6         PTH        0.85inch (21.59mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              30
+
+Total Processing Time (hh:mm:ss) : 00:00:00
