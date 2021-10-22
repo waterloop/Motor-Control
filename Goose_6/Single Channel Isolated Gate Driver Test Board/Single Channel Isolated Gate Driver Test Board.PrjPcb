@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for Single Channel Isolated Gate Driver Test Board
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -194,91 +194,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Single Channel Isolated Gate Driver Test Board\Design Rule Check - Single Channel Isolated Gate Driver Test Board.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board-RectHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board.REP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath==ProjectName + _ RFQ_\Gate Driver Test Board.TXT
+DocumentPath=Project Outputs for Single Channel Isolated Gate Driver Test Board\BOM\Bill of Materials-Single Channel Isolated Gate Driver Test Board.csv
 DItemRevisionGUID=
 
 [Configuration1]
@@ -292,7 +208,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for Single Channel Isolated Gate Driver Test Board
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

@@ -15,9 +15,9 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Gate Driver Test Board.OutJob
+Name=Single Channel Isolated Gate Driver Test Board.OutJob
 Description=
-TargetOutputMedium=GERBER
+TargetOutputMedium=BOM
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
@@ -58,7 +58,7 @@ OutputName2=Bill of Materials
 OutputCategory2=Report
 OutputDocumentPath2=
 OutputVariantName2=
-OutputEnabled2=0
+OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=0
@@ -70,21 +70,21 @@ PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration2_Name1=ColumnNameFormat
 Configuration2_Item1=CaptionAsName
 Configuration2_Name2=General
-Configuration2_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1549|FormHeight=877|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=CAD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration2_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=1479|FormHeight=877|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=CAD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration2_Name3=GroupOrder
 Configuration2_Item3=Value=True|Comment=True
 Configuration2_Name4=SortOrder
 Configuration2_Item4=Designator=Up
 Configuration2_Name5=VisibleOrder
-Configuration2_Item5=Designator=120|Value=100|Footprint=100|Manufacturer=100|Manufacturer Part Number=100|Supplier=100|Supplier Part Number=100|Quantity=120
+Configuration2_Item5=Designator=120|Value=100|Footprint=100|Manufacturer=162|Manufacturer Part Number=209|Supplier=100|Supplier Part Number=100|Quantity=120
 Configuration2_Name6=VisibleOrder_Flat
-Configuration2_Item6=Designator=120|Value=100|Footprint=100|Manufacturer=100|Manufacturer Part Number=100|Supplier=100|Supplier Part Number=100|Quantity=120
+Configuration2_Item6=Designator=120|Value=100|Footprint=100|Manufacturer=162|Manufacturer Part Number=209|Supplier=100|Supplier Part Number=100|Quantity=120
 OutputType3=Gerber
 OutputName3=Gerber Files
 OutputCategory3=Fabrication
 OutputDocumentPath3=
 OutputVariantName3=
-OutputEnabled3=1
+OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=0
 OutputEnabled3_OutputMedium3=1
@@ -99,7 +99,7 @@ OutputName4=NC Drill Files
 OutputCategory4=Fabrication
 OutputDocumentPath4=
 OutputVariantName4=
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=2
@@ -190,7 +190,7 @@ Configuration8_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|Ge
 [PublishSettings]
 OutputFilePath2=Project Outputs for Free Documents\PDF\Free Documents.PDF
 ReleaseManaged2=1
-OutputBasePath2=
+OutputBasePath2=Project Outputs for Single Channel Isolated Gate Driver Test Board
 OutputPathMedia2=[Media Name]
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -217,7 +217,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=\
 ReleaseManaged3=1
-OutputBasePath3=
+OutputBasePath3=Project Outputs for Single Channel Isolated Gate Driver Test Board
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Custom]
@@ -228,7 +228,7 @@ OutputFileNameMulti3=
 UseOutputNameForMulti3=1
 OutputFileNameSpecial3=
 OpenOutput3=1
-OutputFilePath4=C:\Users\Owner\Desktop\Waterloop\electrical-BMS\F405 Dev Board\Project Outputs for F405 Dev Board\
+OutputFilePath4=C:\Users\Keeno\Documents\waterloop\Motor-Control\Goose_6\Single Channel Isolated Gate Driver Test Board\Project Outputs for Single Channel Isolated Gate Driver Test Board\
 ReleaseManaged4=1
 OutputBasePath4=Project Outputs for Single Channel Isolated Gate Driver Test Board
 OutputPathMedia4=
@@ -281,7 +281,7 @@ OpenGerberOutput3=0
 OpenNCDrillOutput3=0
 OpenIPCOutput3=0
 EnableReload3=0
-RelativeOutputPath4=C:\Users\Owner\Desktop\Waterloop\electrical-BMS\F405 Dev Board\Project Outputs for F405 Dev Board\
+RelativeOutputPath4=C:\Users\Keeno\Documents\waterloop\Motor-Control\Goose_6\Single Channel Isolated Gate Driver Test Board\Project Outputs for Single Channel Isolated Gate Driver Test Board\
 OpenOutputs4=1
 AddToProject4=1
 TimestampFolder4=0
