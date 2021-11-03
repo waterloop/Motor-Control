@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=Control_Test_Board.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=CAN Transceiver.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CAN Transceiver.SchDoc|FileName=Control_Test_Board.SchDoc|SheetNumber=1
