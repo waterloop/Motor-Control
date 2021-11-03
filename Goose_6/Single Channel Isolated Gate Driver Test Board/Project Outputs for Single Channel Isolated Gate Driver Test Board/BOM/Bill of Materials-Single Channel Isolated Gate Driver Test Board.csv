@@ -1,0 +1,13 @@
+Designator,Value,Footprint,Manufacturer,Manufacturer Part Number,Supplier,Supplier Part Number,Quantity
+
+"C1, C2, C9, C10","100 nF","0805 - Capacitor","YAGEO","CC0805KRX7R9BB104","DigiKey","311-1140-1-ND","4"
+"C3, C4, C5, C6","15 pF","0805 - Capacitor","YAGEO","CC0805JRNPO9BN150","DigiKey","311-1101-1-ND","4"
+"C7, C8","1 nF","0805 - Capacitor","YAGEO","CC0805KRX7R9BB102","DigiKey","311-1127-1-ND","2"
+"C11, C12","1 uF","0805 - Capacitor","YAGEO","CC0805MKY5V9BB105","DigiKey","311-3435-1-ND","2"
+"G1, G2","","STGAP2HSCMTR","STMicroelectronics","STGAP2HSCMTR","DigiKey","497-STGAP2HSCMCT-ND","2"
+"IC1, IC2","","TBA 2-2413","Traco Power","TBA 2-2413","DigiKey","1951-3443-ND","2"
+"P1","","HDR1X4","","","","","1"
+"P2, P3, P4, P5","","HDR1X2","","","","","4"
+"Q1, Q2","600 V","TO2520AB","STMicroelectronics","STGF7H60DF","DigiKey","497-16017-5-ND","2"
+"R1, R2, R3, R4","10K","0603 - Resistor","YAGEO","RC0603FR-0710KL","DigiKey","311-10.0KHRCT-ND","4"
+"R5, R6","10","1206 - Resistor","Stackpole Electronics","RMCF1206FT10R0","DigiKey","RMCF1206FT10R0CT-ND","2"

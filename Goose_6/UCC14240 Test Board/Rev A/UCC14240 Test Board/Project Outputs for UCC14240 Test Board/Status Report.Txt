@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [UCC14240 Test Board.PcbDoc]
+   Generated File[UCC14240 Test Board.TXT]
+   Generated File[UCC14240 Test Board.LDP]
+   Generated File[UCC14240 Test Board.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:56:14 PM On 2021-10-19
