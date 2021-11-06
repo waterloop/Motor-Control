@@ -1,1 +1,3 @@
 Record=TopLevelDocument|FileName=Control_Test_Board.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Control_Test_Board.SchDoc|Designator=Peripherals|SchDesignator=Peripherals|FileName=Peripherals.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Peripherals.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Control_Test_Board.SchDoc|FileName=CAN Transceiver.SchDoc|SheetNumber=3
