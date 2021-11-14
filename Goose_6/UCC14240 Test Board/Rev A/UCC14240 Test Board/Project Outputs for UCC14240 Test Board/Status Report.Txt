@@ -1,12 +1,14 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [UCC14240 Test Board.PcbDoc]
-   Generated File[UCC14240 Test Board.TXT]
-   Generated File[UCC14240 Test Board.LDP]
-   Generated File[UCC14240 Test Board.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 8:15:16 PM On 2021-10-22
+
+Output: Bill of Materials
+Type  : BOM
+From  : Project [UCC14240 Test Board.PrjPcb]
+   Generated File[Bill of Materials-UCC14240 Test Board.xlsx]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:56:14 PM On 2021-10-19
+Finished Output Generation At 8:15:17 PM On 2021-10-22
