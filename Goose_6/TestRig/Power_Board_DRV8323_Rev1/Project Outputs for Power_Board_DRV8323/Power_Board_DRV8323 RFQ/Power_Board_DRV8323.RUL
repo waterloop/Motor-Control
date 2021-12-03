@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\ellen\Documents\GitHub\Motor-Control\Goose_6\TestRig\Power_Board_DRV8323\Power_Board_DRV8323.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00

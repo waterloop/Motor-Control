@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:25:42 PM On 9/7/2021
+
+Output: Bill of Materials
+Type  : BOM
+From  : Project [Power_Board_DRV8323.PrjPcb]
+   Generated File[Bill of Materials-Power_Board_DRV8323.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:25:45 PM On 9/7/2021
