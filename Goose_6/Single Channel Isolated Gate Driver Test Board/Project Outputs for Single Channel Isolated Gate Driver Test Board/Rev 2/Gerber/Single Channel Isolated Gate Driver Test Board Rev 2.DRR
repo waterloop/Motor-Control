@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Single Channel Isolated Gate Driver Test Board Rev 2.PcbDoc   12/8/2021  11:57:37 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Single Channel Isolated Gate Driver Test Board Rev 2.TXT
+ASCII RectHoles File : Single Channel Isolated Gate Driver Test Board Rev 2-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.25mm)                                            Rectangle         8         PTH        2.91inch (74.00mm)
+T2      28mil (0.7mm)                                             Rectangle         4         PTH        2.46inch (62.42mm)
+T3      28mil (0.711mm)                                           Round             15        PTH        3.69inch (93.73mm)
+T4      39mil (1mm)                                               Round             6         PTH        0.76inch (19.20mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              33
+
+Total Processing Time (hh:mm:ss) : 00:00:00

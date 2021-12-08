@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for Gate
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -160,23 +160,6 @@ GenerateClassCluster=0
 DocumentUniqueId=LRDJTGSM
 
 [Document8]
-DocumentPath=Single Channel Isolated Gate Driver Test Board.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JRMXTHUN
-
-[Document9]
 DocumentPath=Single Channel Isolated Gate Driver Test Board.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=Single Channel Isolated Gate Driver Test Board Rev 2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -211,7 +194,79 @@ GenerateClassCluster=0
 DocumentUniqueId=ADJKBKJD
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Single Channel Isolated Gate Driver Test Board\BOM\Bill of Materials-Single Channel Isolated Gate Driver Test Board.csv
+DocumentPath==ProjectName + _ RFQ_\Single Channel Isolated Gate Driver Test Board Rev 2-RectHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath==ProjectName + _ RFQ_\Single Channel Isolated Gate Driver Test Board Rev 2.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath==ProjectName + _ RFQ_\Single Channel Isolated Gate Driver Test Board Rev 2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath==ProjectName + _ RFQ_\Single Channel Isolated Gate Driver Test Board Rev 2.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath==ProjectName + _ RFQ_\Single Channel Isolated Gate Driver Test Board Rev 2.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath==ProjectName + _ RFQ_\Single Channel Isolated Gate Driver Test Board Rev 2.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath==ProjectName + _ RFQ_\Single Channel Isolated Gate Driver Test Board Rev 2.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath==ProjectName + _ RFQ_\Single Channel Isolated Gate Driver Test Board Rev 2.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath==ProjectName + _ RFQ_\Single Channel Isolated Gate Driver Test Board Rev 2.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath==ProjectName + _ RFQ_\Single Channel Isolated Gate Driver Test Board Rev 2.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath==ProjectName + _ RFQ_\Single Channel Isolated Gate Driver Test Board Rev 2.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath==ProjectName + _ RFQ_\Single Channel Isolated Gate Driver Test Board Rev 2.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath==ProjectName + _ RFQ_\Single Channel Isolated Gate Driver Test Board Rev 2.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath==ProjectName + _ RFQ_\Single Channel Isolated Gate Driver Test Board Rev 2.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath==ProjectName + _ RFQ_\Single Channel Isolated Gate Driver Test Board Rev 2.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath==ProjectName + _ RFQ_\Single Channel Isolated Gate Driver Test Board Rev 2.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath==ProjectName + _ RFQ_\Single Channel Isolated Gate Driver Test Board Rev 2.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath==ProjectName + _ RFQ_\Single Channel Isolated Gate Driver Test Board Rev 2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath==ProjectName + _ RFQ_\Single Channel Isolated Gate Driver Test Board Rev 2.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -225,7 +280,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Gate
 
 [OutputGroup1]
 Name=Netlist Outputs

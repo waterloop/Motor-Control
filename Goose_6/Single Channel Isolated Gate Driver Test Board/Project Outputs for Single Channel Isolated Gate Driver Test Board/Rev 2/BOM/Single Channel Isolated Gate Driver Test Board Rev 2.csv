@@ -1,0 +1,13 @@
+Designator,Value,Footprint,Manufacturer,Manufacturer Part Number,Supplier,Supplier Part Number,Quantity
+
+"C1, C4, C9, C10","100 nF","0805 - Capacitor","YAGEO","CC0805KRX7R9BB104","DigiKey","311-1140-1-ND","4"
+"C2, C3, C5, C6","100 pF","0805 - Capacitor","YAGEO","CC0805JRNPO9BN101","DigiKey","311-1111-1-ND","4"
+"C7, C8","22 uF","1206 - Capacitor","Samsung Elctro-Mechanics, Samsung Electro-Mechanics","CL31A226KAHNNNE","DigiKey","1276-3047-1-ND","2"
+"C11, C12","1 uF","0805 - Capacitor","YAGEO","CC0805MKY5V9BB105","DigiKey","311-3435-1-ND","2"
+"P1","","B2B-XH","","","","","1"
+"P2","","B4B-XH","","","","","1"
+"Q1","","FF50R12RT4","Infineon Technologies","FF50R12RT4HOSA1","DigiKey","FF50R12RT4HOSA1-ND","1"
+"R1, R2, R3, R4","470","0603 - Resistor","YAGEO","RC0603FR-07470RL","DigiKey","311-470HRCT-ND","4"
+"R5, R6","10","1206 - Resistor","Stackpole Electronics","RMCF1206FT10R0","DigiKey","RMCF1206FT10R0CT-ND","2"
+"U1, U2","","STGAP2HSCMTR","STMicroelectronics","STGAP2HSCMTR","DigiKey","497-STGAP2HSCMCT-ND","2"
+"U3, U4","","TBA 2-2413","Traco Power","TBA 2-2413","DigiKey","1951-3443-ND","2"
